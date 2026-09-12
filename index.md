@@ -4,7 +4,7 @@ title: Robotic Eye Brooch
 ---
 
 <p align="center">
-  <img src="assets/images/maia-hirsch-labs-logo.svg"
+  <img src="assets/maia_hirsch_labs_logo.svg"
        alt="Maia Hirsch Labs"
        width="140">
 </p>
