@@ -3,6 +3,12 @@ layout: home
 title: Robotic Eye Brooch
 ---
 
+<p align="center">
+  <img src="assets/images/maia-hirsch-labs-logo.svg"
+       alt="Maia Hirsch Labs"
+       width="140">
+</p>
+
 # Robotic Eye Brooch
 
 **User & Repair Manual**
