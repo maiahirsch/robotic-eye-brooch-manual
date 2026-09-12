@@ -26,7 +26,7 @@ The main project directory is:
 
 ```text
 ~/robotic_brooch/
-
+```
 The main tracking program is:
 
 ```text
