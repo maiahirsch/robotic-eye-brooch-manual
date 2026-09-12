@@ -1,17 +1,8 @@
-remote_theme: "mmistakes/minimal-mistakes@4.28.1"
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
+theme: minima
 
 title: "Robotic Eye Brooch"
-subtitle: "User & Repair Manual"
-name: "Maia Hirsch"
+description: "User & Repair Manual"
 
-description: >
-  User, maintenance, troubleshooting, and repair documentation
-  for the Robotic Eye Brooch.
-
-minimal_mistakes_skin: "default"
+author: "Maia Hirsch"
 
 markdown: kramdown
