@@ -1,7 +1,8 @@
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 title: "Robotic Eye Brooch"
 subtitle: "User & Repair Manual"
