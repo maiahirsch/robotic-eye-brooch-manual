@@ -3,8 +3,6 @@ layout: home
 title: Robotic Eye Brooch
 ---
 
-# Robotic Eye Brooch
-
 **User & Repair Manual**
 
 Designed and built by Maia Hirsch.
