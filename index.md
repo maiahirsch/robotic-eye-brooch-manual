@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Robotic Eye Brooch
+layout: single
+title: "Robotic Eye Brooch"
+permalink: /
+author_profile: false
 ---
 
 # ROBOTIC EYE BROOCH
