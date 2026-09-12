@@ -1,1 +1,9 @@
+theme: jekyll-theme-minimal
 
+title: Robotic Eye Brooch
+
+description: >
+  User, maintenance, troubleshooting, and repair manual
+  for the Robotic Eye Brooch designed and built by Maia Hirsch.
+
+markdown: kramdown
